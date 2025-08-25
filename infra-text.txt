@@ -1,0 +1,5 @@
+this file is created to 
+learn the git concepts
+vm name
+vm size
+vm configuration
